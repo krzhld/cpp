@@ -1,0 +1,9 @@
+MenuBegin
+menuColor=255,0,0
+menuRect=10,10,700,500
+MenuEnd
+ButtonBegin
+buttonColor=0,255,0
+buttonRect=50,50,50,50
+buttonText=text1
+ButtonEnd

@@ -1,0 +1,7 @@
+*/Debug/*
+*/Release/*
+*/.vs/*
+*.exe
+*.sln
+*.aps
+*.vcxproj*

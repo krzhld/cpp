@@ -1,0 +1,29 @@
+case 1)
+MenuBegin
+menuColor=255,255,255
+menuRect=10,10,20,20
+MenuEnd
+
+case 2)
+MenuBegin
+menuColor=255,255,255
+menuRect=10,10,20,20
+
+ButtonBegin
+buttonColor=255,255,255
+buttonRect=10,10,2,2
+buttonText="lmao"
+ButtonEnd
+
+MenuEnd
+
+case 3)
+MenuBegin
+menuColor=255,255,255
+menuRect=10,10,20,20
+MenuBegin
+MenuEnd
+MenuBegin
+MenuEnd
+MenuEnd
+
